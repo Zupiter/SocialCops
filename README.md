@@ -48,8 +48,7 @@ The trends in deasonalised plots of the commoditites depict movement of the pric
 
 # Task 3:
 
-
-We plot deseasonalized prices and msprice and observed price for each APMC.
+We plot deseasonalized prices and msprice and observed price for each APMC. First we do for ith APMC and then loop over all.
 
 # Task 4 
 
