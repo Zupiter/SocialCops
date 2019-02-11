@@ -44,7 +44,11 @@ Now deseasonal component is finded out by removing seasonal part, i.e. we either
 The movement of prices from April 2014 till December 2016 have 2 identical cycles of drops and rises, whcih can be accounted for the type of crop the commodity is; that is; rabi or kharif crop.
 
 The trends in deasonalised plots of the commoditites depict movement of the prices that is distinct for each commodity.
+ Upon checking the frequency of the the APMC commodities, the top five APMC's which came up were:
 
+Mumbai 1538 Pune 1513 Nagpur 1340 Barshi 1076 Jalgaon 1055 Solapur 984
+
+Whereas the highest in the frequency in the commodities were as follows: gram 4115 wheat(husked) 4097 soybean 3727 sorgum(jawar) 3716 pigeon pea (tur) 3477
 
 # Task 3:
 
